@@ -9,6 +9,8 @@
 - <a href="https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india">Credit Card Data</a>
 - <a href="https://github.com/ash-ashutosh/SQL_Projects/blob/main/Credit%20Card%20Project/VIEW%20Sample%20Data%20Set%20.jpg">Quick View</a>
 
+![VIEW Sample Data Set ](https://github.com/user-attachments/assets/399f9c9b-561e-44a0-9a02-128161bf166c)
+
 
 ## Skills Demonstrated
 ### 1. Data Aggregation & Summarization
